@@ -1,1 +1,140 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Neil",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Neil Goldader",
+  "headerTaglineThree": "a Software Engineer & Tinkerer",
+  "headerTaglineFour": " based in Boston, MA.",
+  "showCursor": false,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/avatarneil"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/neil-goldader/"
+    },
+    {
+      "id": "3",
+      "title": "Mastodon",
+      "link": "https://hachyderm.io/avatarneil"
+    },
+    {
+      "id": "4",
+      "title": "Twitter",
+      "link": "https://twitter.com/avatarneil"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:neilgoldader@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "2bc86ba6-c620-4a8e-b59c-e188e7973178",
+      "title": "pls-changeset-me",
+      "description": "A script that will plead for you to write changesets for your changes.",
+      "imageSrc": "https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/pleading-face_1f97a.png",
+      "url": "https://www.npmjs.com/package/pls-changeset-me"
+    }
+  ],
+  "services": [],
+  "aboutpara": "I'm a software engineer with a passion for things that move. I have worked closely with Product teams throughout the mobility industry to deliver rich end-user experiences using embedded technology, and crafted big-data platforms which process millions of records per day. I am currently working as a Senior Software Engineer at Lacuna Technologies, where I am responsible for the Billing Platform, and one of the primary contributors to the OMF MDS New Modes workstream. I am also a maintainer of mds-core, an open source project which provides a reference implementation of the MDS specification. I attended Boston University briefly, where I was a Computer Science BA candidate before I left in strong academic standing following my sophomore year to persue career opportunities.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer with a passion for things that move.",
+    "description": "I have worked closely with Product teams throughout the mobility industry to deliver rich end-user experiences using embedded technology, and crafted big-data platforms which process millions of records per day.",
+    "experiences": [
+      {
+        "id": "ad80062c-bdb2-43f3-a510-bea206593a5b",
+        "dates": "March 2020 - Present",
+        "type": "Full-Time",
+        "position": "Senior Software Engineer @Lacuna Technologies",
+        "bullets": [
+          "Technical leadership for integration of new modes of transportation in Lacuna’s stack and the OMF MDS.",
+          "Built mobile applications to demonstrate the functionality of the core platform in SwiftUI",
+          "Utilized experimental NodeJS multithreading to compute a suite of analytics in 3 days which was expected to take ~4.5 months to complete prior to optimization.",
+          "Worked with Client Services team to design & implement internal admin tooling to optimize new client onboarding & support.",
+          "Languages/technologies used: Typescript Node.js, Kubernetes, Redis, PostgreSQL, MongoDB, Kafka, HTTP/REST, Swift/SwiftUI"
+        ]
+      },
+      {
+        "id": "c2d52f30-5fb0-4700-b89b-a1c72508ddd8",
+        "dates": "August 2019 - March 2020",
+        "type": "Full-Time",
+        "position": "Software Engineer @Lacuna Technologies",
+        "bullets": [
+          "Provided technical support for LADOT regarding technical compliance of providers operating under the LADOT Dockless Mobility Program.",
+          "Authored the MDS Stops endpoints for the Provider and Agency APIs, and implemented them in mds-core.",
+          "Languages/technologies used: Typescript Node.js, Kubernetes, Redis, PostgreSQL, NATS, HTTP/REST."
+        ]
+      },
+      {
+        "id": "d931eaa2-3b89-4904-8baa-0d451ca44277",
+        "dates": "April 2019 - August 2019",
+        "type": "Full-Time",
+        "position": "Software Engineering Contractor @Lacuna Technologies",
+        "bullets": [
+          "Co-Authored the initial MDS Compliance and Policy APIs, and implemented them for the City of Los Angeles LADOT in mds-core.",
+          "Languages/technologies used: Javascript/Typescript on Node.js,  AWS Lambda, Redis, PostgreSQL, HTTP/REST."
+        ]
+      },
+      {
+        "id": "a6c93a88-78dd-4663-85a4-5811134bed43",
+        "dates": "December 2018 - April 2019",
+        "type": "Part-Time",
+        "position": "Embedded Software Engineering Contractor @Zipcar",
+        "bullets": [
+          "Primary maintainer for production firmware in Zipcar and LocalMotion by Zipcar fleets.",
+          "Languages/technologies used: Java, C/C++, HTML/CSS/JavaScript, NXP Chips, PIC Chips, STM Chips."
+        ]
+      },
+      {
+        "id": "98fbe133-7857-4f4e-b02c-e81d7a519c7f",
+        "dates": "May 2018 - December 2018",
+        "type": "Internship",
+        "position": "Embedded Software Engineering Intern @Zipcar",
+        "bullets": [
+          "Lead developer for a proprietary Telematics Unit emulator, designed multiple open source MPLab X plugins in Java hosted on the Zipcar Github.",
+          "Developed a collection of external components mimicking standard peripheral behavior (modem, eFlash, etc) written in Go.",
+          "Wrote firmware used in LocalMotion by Zipcar and Zipcar fleets.",
+          "Languages/technologies used: Java, C/C++, Go, HTML/CSS/JavaScript, NXP Chips, PIC Chips."
+        ]
+      },
+      {
+        "id": "b4f2df97-a79c-4d96-8abf-381d58ab3272",
+        "dates": "January 2018 - May 2018",
+        "type": "Full Time",
+        "position": "Quality Assurance Engineering Co-Op @Zipcar",
+        "bullets": [
+          "Collaborated with the Zipcar Telematics team to test production software, firmware and hardware in an Agile Sprint development environment",
+          "Shaped QE processes for the Software Engineering team",
+          "Languages/technologies used: Testlink, Testrails, Atlassian Suite"
+        ]
+      },
+      {
+        "id": "37fbb7e1-309a-431c-9f96-dc1ee1a350d0",
+        "dates": "May 2017 - September 2017",
+        "type": "Internship",
+        "position": "Software Engineering Intern @Gravic Inc.",
+        "bullets": [
+          "Developed cross-platform configuration tool for the Shadowbase product targeted at Oracle databases",
+          "Languages/technologies used: C#, HTML/CSS/JavaScript, Node.js, Electron."
+        ]
+      }
+    ],
+    "education": [{
+      "universityName": "Boston University",
+      "universityDate": "2018-2019",
+      "universityPara": "Compute Science BA Candidate. elevant Coursework: Computer Systems, Combinatoric Structures, Geometric Algorithms, Probability in Computing, Concepts of Programming Languages, Introduction to Analysis of Algorithms. Left in strong academic standing to pursue professional opportunities."
+    },{
+      "universityName": "University of Massachusetts",
+      "universityDate": "2017-2018",
+      "universityPara": "Compute Science BS Candidate. Relevant Coursework: Introduction to Computing, Intermediate Computing with Data Structures"
+    }],
+    "languages": ["Javascript", "Python", "Go", "Rust", "C/C++"],
+    "frameworks": ["React", "Typescript", "Node.js", "Express"],
+    "others": ["AWS", "Docker", "Kubernetes", "Redis", "PostgreSQL", "Kafka", "NATS", "MongoDB", "Figma"]
+  }
+}

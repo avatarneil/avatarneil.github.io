@@ -16,7 +16,9 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               TOGETHER
             </h1>
-            <Button type="primary">Schedule a call</Button>
+            <Link href="https://fantastical.app/avatarneil-TlSI/1-on-1">
+              <Button type="primary">Schedule a call</Button>
+            </Link>
             <div className="mt-10">
               <Socials />
             </div>
